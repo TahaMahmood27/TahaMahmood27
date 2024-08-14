@@ -1,13 +1,8 @@
 <h1>Hi 👋, I'm Taha, Full Stack Developer</h1>
 
-<h4>A Software Engineer with over a year of experience, I am passionate about creating modern and efficient web applications using the latest cutting-edge technologies. With expertise in React, NextJS, Django, Django Rest Framework, Javascript, Typescript, Firebase, MUI, TailwindCSS, and Redux. I am able to bring to life dynamic and scalable web solutions that provide a seamless user experience. My goal is to continuously push the boundaries of what's possible and create high-performance, user-friendly web apps that make a difference.</h3>
+<h4>A Software Engineer with over two year of experience, I am passionate about creating modern and efficient web applications using the latest cutting-edge technologies. With expertise in Golang, React, NextJS, Django, Django Rest Framework, Javascript, Typescript, Firebase, MUI, TailwindCSS, and Redux. I am able to bring to life dynamic and scalable web solutions that provide a seamless user experience. My goal is to continuously push the boundaries of what's possible and create high-performance, user-friendly web apps that make a difference.</h3>
 
-
-
-
-- 🌱 I’m currently learning **Solidity**
-
-- 📫 How to reach me **M.TahaMahmood27@gmail.com**
+- 📫 How to reach me **m.tahamahmood.01@gmail.com**
 <p align="left"> <a href="https://twitter.com/tahamahmood27" target="blank"><img src="https://img.shields.io/twitter/follow/tahamahmood27?logo=twitter&style=for-the-badge" alt="tahamahmood27" /></a> </p>
 
 
